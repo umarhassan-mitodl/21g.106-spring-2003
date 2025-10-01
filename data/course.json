@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "legacy_uid": "73e84842-d642-2a97-baba-4d248277dfa3",
+  "instructors": {
+    "content": [
+      "d82e3897-e386-0049-b694-936646093242"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "815ee758-9f18-ca4b-ac06-9940b998cdcd",
+    "website": "21g-106-chinese-vi-regular-discovering-chinese-cultures-and-societies-spring-2003"
+  },
+  "course_title": "Chinese VI (Regular): Discovering Chinese Cultures and Societies",
+  "hide_download": true,
+  "course_description": "This course is the continuation of [21G.105](/courses/21g-105-chinese-v-regular-chinese-cultures-society-fall-2003/). It is designed to further help students develop sophisticated conversational, reading and writing skills by combining traditional textbook material with their own explorations of Chinese speaking societies, using the human, literary, and electronic resources available at MIT and in the Boston area. Some special features of Chinese society, its culture, its customs and habits, its history, and the psychology of its people are introduced. The class consists of reading, discussion, composition, network exploration, and conversational practice. The course is conducted in Mandarin.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.106",
+  "course_image_thumbnail": {
+    "content": "fe757d84-59c9-1806-f00c-f92ce7bf45f4",
+    "website": "21g-106-chinese-vi-regular-discovering-chinese-cultures-and-societies-spring-2003"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Other Video",
+    "Activity Assignments"
+  ],
+  "site_uid": "0f9f2663-9af2-4e29-88c2-1e64cda99a25",
+  "site_short_id": "21g.106-spring-2003",
+  "site_url_path": "courses/21g-106-chinese-vi-regular-discovering-chinese-cultures-and-societies-spring-2003",
+  "title": "Course Metadata"
+}
