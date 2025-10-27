@@ -4,8 +4,6 @@ description: 'Discussion Board Topics: Prof. Chen asked a number of colleagues a
   friends in China to submit thoughts on various topics, to which the students responded
   via the course discussion board. Section links to the submissions by Prof. Chen''s
   colleagues and friends on various topics.  Section in Chinese and English.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
